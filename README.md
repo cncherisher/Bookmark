@@ -4,3 +4,5 @@
 [weblio字典](https://www.weblio.jp/)
 
 [telegram中文搜索](http://www.sssoou.com/)
+
+[小土豆博客](https://dmesg.app/)
